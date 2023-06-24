@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknutrition_ai=self.webpackChunknutrition_ai||[]).push([[367],{6367:function(e,n,t){t.r(n);t(72791);var i=t(52791),s=t(57689),a=t(12665),c=t(80184);n.default=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)(a.Z,{title:"Nutra Plus | Health Recipe",className:"w-100",children:(0,c.jsx)(i.Z,{component:"section",className:"w-100",children:(0,c.jsx)(s.j3,{})})})})}}}]);
+//# sourceMappingURL=367.2fbc9b0f.chunk.js.map

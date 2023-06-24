@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknutrition_ai=self.webpackChunknutrition_ai||[]).push([[45],{3045:function(n,e,t){t.r(e);t(72791);var i=t(68870),s=t(57689),c=t(12665),r=t(80184);e.default=function(){return(0,r.jsx)(r.Fragment,{children:(0,r.jsx)(c.Z,{title:"Nutra Plus | Article Blog",className:"w-100",children:(0,r.jsx)(i.Z,{component:"section",className:"w-100",children:(0,r.jsx)(s.j3,{})})})})}}}]);
+//# sourceMappingURL=45.c119b2e4.chunk.js.map

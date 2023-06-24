@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknutrition_ai=self.webpackChunknutrition_ai||[]).push([[267],{267:function(i,n,t){t.r(n);t(72791);var e=t(89164),r=t(12665),u=t(57689),l=t(80184);n.default=function(){return(0,l.jsx)(l.Fragment,{children:(0,l.jsx)(r.Z,{title:"Profile | Nutra Plus",children:(0,l.jsx)(e.Z,{maxWidth:"lg",children:(0,l.jsx)(u.j3,{})})})})}}}]);
+//# sourceMappingURL=267.c485768d.chunk.js.map
